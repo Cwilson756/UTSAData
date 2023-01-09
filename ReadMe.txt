@@ -8,3 +8,5 @@ and hightest % decrease.
 
 Finally, adds formatting to the yearly change cell to color positive changes as green and negative
 changes as red.
+
+Included screenshots of my results for all sheets in the workbook.
